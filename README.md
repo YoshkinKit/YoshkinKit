@@ -8,6 +8,9 @@ I'm a passionate **game developer** with experience in **Unity**. Currently purs
 - Python
 - Rust
 - C
+- SQL
+- PostgreSQL
+- Oracle Database
 
 ### 🎮 My Projects:
 | Project | Description |
