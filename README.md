@@ -1,21 +1,21 @@
 ## Hi there 👋 I'm Nikita Zhmak
 
-I'm a passionate **game developer** with experience in **Unity**. Currently pursuing a degree in **Computer Science**. I love creating immersive gaming experiences and exploring new technologies.
+I am a professional **Unity Developer** with experience in game and interactive application development. I am currently working at **Octogames** where I create high quality and immersive projects for the game industry. Currently pursuing a degree in **Computer Science**. I love creating immersive gaming experiences and exploring new technologies.
 
-### 🛠 Technologies I work with:
-- Unity
-- C#
-- Python
-- Rust
-- SQL (PostgreSQL, Oracle, SQLite)
+### 🛠 Core Stack:
+- **Game Engine**: Unity
+- **Languages**: C#, Python, Rust
+- **Technologies**: DoTween, Spine, Naninovel, Steam SDK, Git
+- **DB**: PostgreSQL, Oracle, SQLite
 
-### 🎮 My Projects:
+### 🎮 Personal Projects:
 | Project | Description |
 |--------|----------|
 | [Rolling Rush](https://github.com/YoshkinKit/rolling-rush) | 3D Casual Mobile platformer |
 | [Laser Defender](https://simmer.io/@YoshkinKit/laserdefender) | 2D Top-Down Scroll Space Shooter |
 | [A* Algorithm Demo](https://github.com/YoshkinKit/A-Star-Algorithm-Visualisation) | 2D Visualisation of A* Algorithm |
 | [Terrain Generator Demo](https://github.com/YoshkinKit/Perlin-noise-Unity) | 3D Terrain Generation Demo |
+| [Boids Demo](https://github.com/YoshkinKit/Unity-Boids) | 3D Demo of Boids Algorithm |
 
 ### 🌟 Projects I’ve Contributed To:
 - **[Schedule Telegram Bot](https://t.me/AI221sentinel_bot)**  
